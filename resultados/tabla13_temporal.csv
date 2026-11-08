@@ -1,0 +1,4 @@
+Modelo,F1 macro (temporal),Exactitud (temporal),"F1 macro (aleatoria, semilla 42)"
+Naive Bayes,0.7018,0.7993,0.7032
+SVM lineal,0.7665,0.8429,0.7886
+RoBERTa-base,0.7744,0.8357,0.7688

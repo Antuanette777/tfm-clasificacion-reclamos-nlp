@@ -1,0 +1,9 @@
+,Naive Bayes,SVM lineal,RoBERTa-base,n_prueba (semilla 42)
+bank_account,0.7466,0.8033,0.8088,936
+consumer_loan,0.5355,0.6457,0.6205,401
+credit_card,0.6541,0.762,0.7491,1019
+credit_reporting,0.8789,0.9161,0.8963,6992
+debt_collection,0.6639,0.732,0.709,1496
+money_transfer,0.6488,0.7352,0.7622,467
+mortgage,0.773,0.8671,0.8622,483
+student_loan,0.7063,0.7821,0.7536,207

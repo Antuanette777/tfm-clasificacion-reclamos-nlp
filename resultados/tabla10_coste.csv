@@ -1,0 +1,4 @@
+Modelo,Parámetros,Entrenamiento (s),Inferencia CPU (ms/reclamo),Inferencia GPU (ms/reclamo),Memoria GPU pico (GB)
+Naive Bayes,"800,000",11,0.16,—,—
+SVM lineal,"800,000",14,0.16,—,—
+RoBERTa-base,"124,651,784",1653,98.01,2.52,5.1

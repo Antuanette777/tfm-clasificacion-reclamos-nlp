@@ -1,0 +1,12 @@
+,precision,recall,f1-score,support
+bank_account,0.6729,0.8504,0.7513,936.0
+consumer_loan,0.4549,0.616,0.5233,401.0
+credit_card,0.5917,0.7694,0.6689,1019.0
+credit_reporting,0.9486,0.8259,0.883,6992.0
+debt_collection,0.6453,0.6932,0.6684,1496.0
+money_transfer,0.8285,0.5482,0.6598,467.0
+mortgage,0.6568,0.9193,0.7662,483.0
+student_loan,0.6222,0.8116,0.7044,207.0
+accuracy,0.7922,0.7922,0.7922,0.7922
+macro avg,0.6776,0.7542,0.7032,12001.0
+weighted avg,0.8204,0.7922,0.7993,12001.0
